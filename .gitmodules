@@ -1,0 +1,4 @@
+
+[submodule "tinycc"]
+	path = tinycc
+	url = https://github.com/C-Chads/tinycc
