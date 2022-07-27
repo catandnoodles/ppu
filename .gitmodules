@@ -2,3 +2,6 @@
 [submodule "tinycc"]
 	path = tinycc
 	url = https://github.com/C-Chads/tinycc
+[submodule "c4"]
+	path = c4
+	url = https://github.com/C-Chads/c4
