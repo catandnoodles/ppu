@@ -1,1 +1,0 @@
-tcc -Idir ./header_only_libs/ -gdwarf -shared -
